@@ -435,3 +435,4 @@ def main():
         if op_mas == 0:
             _secuencia_apagado(calentador, valvula)
             return
+main()
